@@ -1,0 +1,19 @@
+*{
+     box-sizing: border-box;
+
+}
+
+html,body{
+     padding: 0;
+     margin: 0;
+     font-family: 'Nova Square',cursive;
+}
+
+body{
+     overflow-x: hidden;
+}
+
+main {
+     flex: 1;
+}
+

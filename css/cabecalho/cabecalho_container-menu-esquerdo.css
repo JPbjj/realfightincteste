@@ -1,0 +1,8 @@
+.cabecalho_container-menu-esquerdo {
+     display: flex;
+     position: absolute;
+     left: 10px;
+     align-items: center;
+     text-align: justify;
+
+}

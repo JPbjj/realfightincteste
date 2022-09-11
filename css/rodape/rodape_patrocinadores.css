@@ -1,0 +1,17 @@
+.rodape_patrocinadores {
+     display: flex;
+     align-items: center;
+}
+
+.patrocinador_img1 {
+     height: 100px;
+     margin-right: 30px;
+}
+
+.patrocinador_img2 {
+     height: 100px;
+}
+
+.patrocinador_img3 {
+     height: 100px;
+}
