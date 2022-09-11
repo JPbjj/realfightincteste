@@ -17,7 +17,7 @@
           }
 }
 
-@media (min-width:768px) and (max-width:1024px) {
+@media (min-width:768px) and (max-width:1000px) {
      body {
           overflow-x: hidden;
      }
@@ -96,6 +96,78 @@
      width: 100px;
      }
 }
+
+@media (max-width:375px) {
+     body {
+          overflow-x: hidden;
+     }
+
+     .cabecalho_sessao {
+          height: 100px;
+     }
+
+     .cabecalho_container-img {
+          width: 140px;
+          height: 80;
+     }
+
+     .cabecalho_img {
+          width: 140px;
+          height: 80px;
+     }
+
+     .cabecalho_container-menu-esquerdo {
+          font-size: 10px;
+     }
+
+     .cabecalho_container-menu-direito {
+          font-size: 10px;
+          left: 300px
+     }
+
+     .principal_sessao {
+          height: 440px;
+     }
+
+     .container_video {
+          width: 270px;
+          height: 200px;
+     }
+
+     .video {
+          width: 270px;
+     }
+
+     .rodape_sessao {
+          height: 100px;
+     }
+
+     .rodape_container {
+          height: 100px;
+     }
+
+     .rodape_patrocinadores {
+          width: 250px;
+          height: 100px;
+     }
+
+     .patrocinador_img1 {
+          width: 75px;
+          height: 75px;
+     }
+
+     .patrocinador_img2 {
+          height: 75px;
+          width: 50px;
+     }
+
+     .patrocinador_img3 {
+          height: 75px;
+          width: 100px;
+     }
+}
+
+
 
 @media (max-width:320px) {
      body {
